@@ -1,0 +1,21 @@
+"Ticker","Company_Name","Industry","Market_Cap","P_E_Ratio","Dividend_Yield","Beta"
+"AAPL","Apple Inc.","Technology",2141.88,29.24,0.6,1.28
+"AMZN","Amazon.com, Inc.","Consumer Discretionary",1618.75,89.73,0,1.18
+"GOOGL","Alphabet Inc.","Technology",1313.32,35.87,0,1.07
+"JPM","JPMorgan Chase & Co.","Financials",475.61,13.29,2.45,1.38
+"WMT","Walmart Inc.","Consumer Staples",392.38,21.8,1.54,0.21
+"BAC","Bank of America Corp.","Financials",324.62,14,1.73,1.55
+"PG","Procter & Gamble Co.","Consumer Staples",328.98,24.18,2.4,0.52
+"NFLX","Netflix Inc.","Communication Services",238.7,71.3,0,0.9
+"CVS","CVS Health Corp.","Health Care",98.53,9.87,2.72,0.91
+"PFE","Pfizer Inc.","Health Care",220.38,22.57,3.55,0.65
+"GE","General Electric Co.","Industrials",128.28,0,0.3,1.23
+"MSFT","Microsoft Corp.","Technology",1946.43,40.83,0.84,0.78
+"VZ","Verizon Communications Inc.","Communication Services",237.13,11.56,4.63,0.43
+"KO","The Coca-Cola Co.","Consumer Staples",239.33,26.16,2.94,0.41
+"T","AT&T Inc.","Communication Services",212.9,8.56,8.16,0.66
+"CSCO","Cisco Systems Inc.","Technology",253.36,22.55,2.53,1.17
+"TSLA","Tesla Inc.","Consumer Discretionary",812.63,682.28,0,1.05
+"UNH","UnitedHealth Group Inc.","Health Care",408.15,18.08,1.39,0.79
+"JNJ","Johnson & Johnson","Health Care",446.23,24.63,2.54,0.69
+"XOM","Exxon Mobil Corp.","Energy",251.92,46.69,5.14,1.05
